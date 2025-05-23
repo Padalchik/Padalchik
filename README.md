@@ -1,8 +1,5 @@
-<h1 align="center">Hi there, I'm Andrey</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGluaG83eGVlb2lqMmJoa3plZGw1bTQ0ajBqMWtjNDBmaGE2Nm9zaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rM76y8bmndqdOFfCuO/giphy.gif" height="32"/></h1>
-<img src="https://raw.githubusercontent.com/Padalchik/Padalchik/refs/heads/main/Assets/Russia.gif" height="32"/></h1>
-<h3 align="center">C# .Net devepor from Russia 🇷🇺</h3>
+<h1 align="center">Hi there, I'm Andrey</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">C# .Net devepor from Russia <img src="https://raw.githubusercontent.com/Padalchik/Padalchik/refs/heads/main/Assets/Russia.gif" height="32"/></h3>
 
 <!--
 **Padalchik/Padalchik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
