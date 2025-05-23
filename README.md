@@ -1,5 +1,6 @@
 <h1 align="center">Hello world! Меня зовут Андрей</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">C# .Net developer from Russia <img src="https://raw.githubusercontent.com/Padalchik/Padalchik/refs/heads/main/Assets/Russia.gif" height="32"/></h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&center=true&vCenter=true&width=435&lines=C%23+.Net+Developer" alt="Typing SVG" /></a>
 
 <!--
 **Padalchik/Padalchik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
